@@ -1,2 +1,6 @@
 [Pt]
 Arquivo contendo uma amostra de conteúdo representando um arquivo de código-fonte de aplicação desenvolvida.
+
+===
+
+File containing sample content representing a source code file for a developed application.
